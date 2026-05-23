@@ -461,11 +461,7 @@ The TroPhish dataset was developed by Jacob Ridgway and Jeff Wesner. This reposi
 
 This repository does not claim ownership of the original TroPhish dataset. The dataset was obtained from the publicly available TroPhish repository and is included here only for reproducibility of the EcoTroph-RAG experiments. Users should consult the original TroPhish repository and thesis for dataset provenance, licensing, and full methodological details.
 
-## Citation
 
-If you use this repository, please cite:
-
-````markdown
 ## Citation
 
 If you use this repository, please cite:
