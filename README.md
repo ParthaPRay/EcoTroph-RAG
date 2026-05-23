@@ -466,5 +466,5 @@ This repository does not claim ownership of the original TroPhish dataset. The d
 If you use this repository, please cite:
 
 ```text
-Ray, Partha Pratim. EcoTroph-RAG: Retrieval-Augmented Ecological Intelligence for Freshwater Fish Diet Analysis. GitHub repository. Available at: https://github.com/ParthaPRay/EcoTroph-RAG/
+Ray, Partha Pratim. EcoTroph-RAG: Retrieval-Augmented Ecological Intelligence for Freshwater Fish Diet Analysis. May 23, 2026. GitHub repository. Available at: https://github.com/ParthaPRay/EcoTroph-RAG/
 ```
