@@ -476,7 +476,7 @@ Ray, Partha Pratim. EcoTroph-RAG: Retrieval-Augmented Ecological Intelligence fo
 @misc{ray2026ecotrophrag,
   author       = {Partha Pratim Ray},
   title        = {EcoTroph-RAG: Retrieval-Augmented Ecological Intelligence for Freshwater Fish Diet Analysis},
-  year         = {2026},
+  year         = {may 23, 2026},
   howpublished = {\url{https://github.com/ParthaPRay/EcoTroph-RAG/}},
   note         = {GitHub repository}
 }
